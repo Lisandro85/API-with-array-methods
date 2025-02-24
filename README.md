@@ -1,10 +1,10 @@
 # API de Usuarios
 
-Este es un proyecto de API  para realizar operaciones CRUD de usuarios, con metodos de array, desde un archivo data.Desarrollado con Node.js, Express,TypeScript.
+Este es un proyecto de API  para realizar operaciones CRUD de usuarios, con metodos de array, desde un archivo data.ts. Desarrollado con Node.js, Express,TypeScript.
 ## Tecnologías utilizadas
 - Node.js
 - Express
--TypeScript
+- TypeScript
 
 ## Instalación
 
