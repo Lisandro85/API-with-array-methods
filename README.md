@@ -10,7 +10,7 @@ Este es un proyecto de API  para realizar operaciones CRUD de usuarios, con meto
 
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/Lisandro85/api-express
+   git clone https://github.com/Lisandro85/API-with-array-methods
    cd tu-repo
    ```
 
